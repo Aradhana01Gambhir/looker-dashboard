@@ -1,2 +1,2 @@
-# looker-dashboard
-Interactive Looker Studio dashboard for Wave Shoes sales data. Tracks sales amount, cost, quantity, transactions, categories, and geolocation.
+# looker-dashboard.
+A Looker Studio sales dashboard for Wave Shoes. Provides insights into sales amount, cost, quantity sold, and transactions. Includes interactive filters by shoe type, category, city, state & customer name to analyze product performance across geographies.
